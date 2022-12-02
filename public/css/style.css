@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    color: red;
+}
+.btn{
+    padding: 5px;
+    font-size: medium;
+    background-color: gold;
+}
